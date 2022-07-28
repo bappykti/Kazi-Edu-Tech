@@ -3,19 +3,19 @@
     padding: 0%;
 }
 .ci1 {
-    height: 80vh;
+    height: 60vh;
     background-size: cover;
     background-position: center center;
     background-image: url(images/cover/mycover1.jpg);
 }
 .ci2 {
-    height: 80vh;
+    height: 60vh;
     background-size: cover;
     background-position: center center;
     background-image: url(images/cover/mycover2.jpg);
 }
 .ci3 {
-    height: 80vh;
+    height: 60vh;
     background-size: cover;
     background-position: center center;
     background-image: url(images/cover/mycover3.jpg);
