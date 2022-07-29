@@ -3,8 +3,9 @@
     margin: 0%;
     padding: 0%;
 }
------------------------------------
-css custom classes for slider scetion
+/* -------------------------------------
+css custom classes for slider section
+------------------------------------- */
 .ci1 {
     height: 60vh;
     background-size: cover;
